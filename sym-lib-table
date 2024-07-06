@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "kicad-egglib")(type "KiCad")(uri "${KIPRJMOD}/kicad-egglib/kicad-egglib.kicad_sym")(options "")(descr ""))
+)

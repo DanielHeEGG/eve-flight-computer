@@ -1,0 +1,3 @@
+[submodule "kicad-egglib"]
+	path = kicad-egglib
+	url = https://github.com/DanielHeEGG/kicad-egglib.git
